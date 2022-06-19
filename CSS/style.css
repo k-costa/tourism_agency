@@ -110,3 +110,11 @@ header, .navbar{
     color: #65DAF9;
     margin-right: 15px;
 }
+
+/* CSS Time */
+.card{
+    margin-bottom: 30px;
+}
+.card-body{
+    text-align: center;
+}
