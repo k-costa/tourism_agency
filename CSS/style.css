@@ -118,3 +118,58 @@ header, .navbar{
 .card-body{
     text-align: center;
 }
+/* CSS footer */
+#contact-area{
+    text-align: center;
+}
+.contact-box{
+    padding-bottom: 50px;
+    margin-bottom: 50px;
+    border-bottom: 1px solid #65DAF9;
+}
+/*
+.contact-box i{
+    color: #444;
+    border: solid 1px #444;
+    border-radius: 50%;
+    width: 55px;
+    height: 55px;
+    line-height: 55px;
+    font-size: 24px;
+    margin-bottom: 20px;
+}
+*/
+.contact-box p{
+    font-size: 16px;
+}
+
+.contact-title{
+    font-weight:bold ;
+    color: #65DAF9;
+}
+#msg-box p{
+    font-size: 22px;
+}
+#contact-form input[type="text"], #contact-form input[type="email"], #contact-form textarea{
+    margin: 15px;
+    border-radius: 0;
+}
+#contact-form .main-btn{
+    width: 120px;
+    height: 50px; 
+}
+#contact-form .main-btn:hover{
+    color: #65DAF9; 
+}
+#copy-area{
+    background-color: #0A1121;
+}
+#copy-area .container{
+    padding: 10px 0;
+    text-align: center;
+}
+#copy-area .container p{
+    margin-bottom: 0;
+    color: #fff;
+}
+
